@@ -1,0 +1,5 @@
+[run]
+include = labor_planning_tool/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
